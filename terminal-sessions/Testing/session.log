@@ -1,0 +1,12 @@
+Script started on 2026-11-02 12:43:55+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="-1" LINES="-1"]
+]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/home/ayush\]0;ayush@ayush-VMware-Virtual-Platform:~\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: ~[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m~[00m$ PseudTe
+[?2004l]133;C\]666;vte.shell.preexec!\PseudTe: command not found
+]666;vte.shell.postexec=127\]7;file://ayush-VMware-Virtual-Platform/home/ayush\]0;ayush@ayush-VMware-Virtual-Platform:~\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: ~[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m~[00m$ TesTes
+[?2004l]133;C\]666;vte.shell.preexec!\TesTes: command not found
+]666;vte.shell.postexec=127\]7;file://ayush-VMware-Virtual-Platform/home/ayush\]0;ayush@ayush-VMware-Virtual-Platform:~\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: ~[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m~[00m$ 
+[?2004l]666;vte.shell.postexec=127\]7;file://ayush-VMware-Virtual-Platform/home/ayush\]0;ayush@ayush-VMware-Virtual-Platform:~\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: ~[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m~[00m$ 
+[?2004l]666;vte.shell.postexec=127\]7;file://ayush-VMware-Virtual-Platform/home/ayush\]0;ayush@ayush-VMware-Virtual-Platform:~\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: ~[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m~[00m$ 
+[?2004l]666;vte.shell.postexec=127\]7;file://ayush-VMware-Virtual-Platform/home/ayush\]0;ayush@ayush-VMware-Virtual-Platform:~\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: ~[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m~[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2026-11-02 12:44:18+05:30 [COMMAND_EXIT_CODE="127"]
