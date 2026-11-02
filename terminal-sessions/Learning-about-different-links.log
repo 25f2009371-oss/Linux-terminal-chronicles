@@ -1,65 +1,0 @@
-Script started on 2026-11-02 12:50:40+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="229" LINES="43"]
-]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/home/ayush\]0;ayush@ayush-VMware-Virtual-Platform:~\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: ~[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m~[00m$ ls
-[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;34mDesktop[0m  [01;34mDocument[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mLinux-terminal-chronicles[0m  [01;34mMusic[0m  [01;34mPictures[0m  [01;34mPublic[0m  [01;34mTemplates[0m  [01;34mVideos[0m  abc2.txt  [01;34mbin[0m  [01;34mdoc[0m  [01;34mlearning-sessions[0m  [01;34mlinux-club[0m  [01;34msandbox[0m  [01;34msnap[0m
-]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/home/ayush\]0;ayush@ayush-VMware-Virtual-Platform:~\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: ~[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m~[00m$ cd /
-[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/\]0;ayush@ayush-VMware-Virtual-Platform:/\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: /[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m/[00m$ ls
-[?2004l]133;C\]666;vte.shell.preexec!\[0m[01;36mbin[0m  [01;34mboot[0m  [01;34mcdrom[0m  [01;34mdev[0m  [01;34metc[0m  [01;34mhome[0m  [01;36mlib[0m  [01;36mlib64[0m  [01;34mlost+found[0m  [01;34mmedia[0m  [01;34mmnt[0m  [01;34mopt[0m  [01;34mproc[0m  [01;34mroot[0m  [01;34mrun[0m  [01;36msbin[0m  [01;34msnap[0m  [01;34msrv[0m  swap.img  [01;34msys[0m  [30;42mtmp[0m  [01;34musr[0m  [01;34mvar[0m
-]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/\]0;ayush@ayush-VMware-Virtual-Platform:/\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: /[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m/[00m$ ls -l
-[?2004l]133;C\]666;vte.shell.preexec!\total 4194380
-lrwxrwxrwx   1 root root          7 Apr 20  2026 [0m[01;36mbin[0m -> [01;34musr/bin[0m
-drwxr-xr-x   3 root root       4096 Nov  2 08:47 [01;34mboot[0m
-dr-xr-xr-x   2 root root       4096 Aug 26 12:01 [01;34mcdrom[0m
-drwxr-xr-x  19 root root       4260 Nov  2 12:35 [01;34mdev[0m
-drwxr-xr-x 147 root root      12288 Nov  2 08:47 [01;34metc[0m
-drwxr-xr-x   3 root root       4096 Oct 28 13:50 [01;34mhome[0m
-lrwxrwxrwx   1 root root          7 Apr 20  2026 [01;36mlib[0m -> [01;34musr/lib[0m
-lrwxrwxrwx   1 root root          9 Apr 20  2026 [01;36mlib64[0m -> [01;34musr/lib64[0m
-drwx------   2 root root      16384 Oct 28 13:39 [01;34mlost+found[0m
-drwxr-xr-x   2 root root       4096 Aug 26 10:57 [01;34mmedia[0m
-drwxr-xr-x   2 root root       4096 Aug 26 10:57 [01;34mmnt[0m
-drwxr-xr-x   2 root root       4096 Aug 26 10:57 [01;34mopt[0m
-dr-xr-xr-x 406 root root          0 Nov  2 12:35 [01;34mproc[0m
-drwx------   5 root root       4096 Oct 28 14:27 [01;34mroot[0m
-drwxr-xr-x  46 root root       1040 Nov  2 12:37 [01;34mrun[0m
-lrwxrwxrwx   1 root root          8 Apr 20  2026 [01;36msbin[0m -> [01;34musr/sbin[0m
-drwxr-xr-x  16 root root       4096 Aug 26 11:05 [01;34msnap[0m
-drwxr-xr-x   2 root root       4096 Aug 26 10:57 [01;34msrv[0m
--rw-------   1 root root 4294967296 Oct 28 13:49 swap.img
-dr-xr-xr-x  13 root root          0 Nov  2 12:35 [01;34msys[0m
-drwxrwxrwt  18 root root        400 Nov  2 12:43 [30;42mtmp[0m
-drwxr-xr-x  12 root root       4096 Aug 26 10:57 [01;34musr[0m
-drwxr-xr-x  14 root root       4096 Oct 28 14:26 [01;34mvar[0m
-]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/\]0;ayush@ayush-VMware-Virtual-Platform:/\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: /[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m/[00m$ ls -al
-[?2004l]133;C\]666;vte.shell.preexec!\total 4194388
-drwxr-xr-x  20 root root       4096 Nov  1 17:42 [0m[01;34m.[0m
-drwxr-xr-x  20 root root       4096 Nov  1 17:42 [01;34m..[0m
-lrwxrwxrwx   1 root root          7 Apr 20  2026 [01;36mbin[0m -> [01;34musr/bin[0m
-drwxr-xr-x   3 root root       4096 Nov  2 08:47 [01;34mboot[0m
-dr-xr-xr-x   2 root root       4096 Aug 26 12:01 [01;34mcdrom[0m
-drwxr-xr-x  19 root root       4260 Nov  2 12:35 [01;34mdev[0m
-drwxr-xr-x 147 root root      12288 Nov  2 08:47 [01;34metc[0m
-drwxr-xr-x   3 root root       4096 Oct 28 13:50 [01;34mhome[0m
-lrwxrwxrwx   1 root root          7 Apr 20  2026 [01;36mlib[0m -> [01;34musr/lib[0m
-lrwxrwxrwx   1 root root          9 Apr 20  2026 [01;36mlib64[0m -> [01;34musr/lib64[0m
-drwx------   2 root root      16384 Oct 28 13:39 [01;34mlost+found[0m
-drwxr-xr-x   2 root root       4096 Aug 26 10:57 [01;34mmedia[0m
-drwxr-xr-x   2 root root       4096 Aug 26 10:57 [01;34mmnt[0m
-drwxr-xr-x   2 root root       4096 Aug 26 10:57 [01;34mopt[0m
-dr-xr-xr-x 406 root root          0 Nov  2 12:35 [01;34mproc[0m
-drwx------   5 root root       4096 Oct 28 14:27 [01;34mroot[0m
-drwxr-xr-x  46 root root       1040 Nov  2 12:37 [01;34mrun[0m
-lrwxrwxrwx   1 root root          8 Apr 20  2026 [01;36msbin[0m -> [01;34musr/sbin[0m
-drwxr-xr-x  16 root root       4096 Aug 26 11:05 [01;34msnap[0m
-drwxr-xr-x   2 root root       4096 Aug 26 10:57 [01;34msrv[0m
--rw-------   1 root root 4294967296 Oct 28 13:49 swap.img
-dr-xr-xr-x  13 root root          0 Nov  2 12:50 [01;34msys[0m
-drwxrwxrwt  18 root root        400 Nov  2 12:43 [30;42mtmp[0m
-drwxr-xr-x  12 root root       4096 Aug 26 10:57 [01;34musr[0m
-drwxr-xr-x  14 root root       4096 Oct 28 14:26 [01;34mvar[0m
-]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/\]0;ayush@ayush-VMware-Virtual-Platform:/\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: /[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m/[00m$ #You can see clearly therir[K[K[Kir is weird link [King drwxr all r[Ke[Krepresenting different functional[Ks[K[Ks
-[?2004l]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/\]0;ayush@ayush-VMware-Virtual-Platform:/\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: /[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m/[00m$ so[K[K# you use chmno[K[K[Kmod tyo[K[Ko playn [K[K wiuth [K[K[K[Kth functuion[K[K[K[Kions [K[K[K[K[K[K[K[K[K[Kpermisions[K[K[K[Ksion w for write x for execurt[K[Kte and r for read only
-[?2004l]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/\]0;ayush@ayush-VMware-Virtual-Platform:/\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: /[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m/[00m$ 3[K#remeber 3x3[K[K+3+3 rule you give each filer [K[Ks  [K3 permission for each group individa[Kual and i dont remeber other one
-[?2004l]666;vte.shell.postexec=0\]7;file://ayush-VMware-Virtual-Platform/\]0;ayush@ayush-VMware-Virtual-Platform:/\]666;vte.shell.precmd!\[?2004h]0;ayush@ayush-VMware-Virtual-Platform: /[01;32mayush@ayush-VMware-Virtual-Platform[00m:[01;34m/[00m$ exit
-[?2004l]133;C\]666;vte.shell.preexec!\exit
-
-Script done on 2026-11-02 12:52:36+05:30 [COMMAND_EXIT_CODE="0"]
