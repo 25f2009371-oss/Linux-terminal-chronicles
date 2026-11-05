@@ -1,0 +1,609 @@
+Script started on 2026-11-05 11:03:16+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="152" LINES="43"]
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ date
+Thu Nov  5 11:03:32 AM IST 2026
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ historuy
+    1  ping
+    2  cls
+    3  clear
+    4  md
+    5  ls
+    6  cd Desktop
+    7  touch alt.txt
+    8  cat "Fuck shitty bastard"
+    9  cat "Fuck shitty bastard">alt.txt
+   10  echo "Fuck shitty bastard">alt.txt
+   11  cat alt.txt
+   12  rm -r alt.txt
+   13  cls
+   14  ls
+   15  show
+   16  ls
+   17  ls -r
+   18  cd
+   19  cd Desktop
+   20  l
+   21  ls
+   22  show
+   23  mkdir Myrevision
+   24  ls
+   25  cd Myrevision
+   26  touch "file1.txt"
+   27  echo "Hello! world 2+2=4" > file1.txt
+   28  cat file1.txt
+   29  ls\
+   30  ls
+   31  cd ~
+   32  pwd
+   33  ls
+   34  tree
+   35  sudo apt install tree
+   36  cd /
+   37  cd ~
+   38  clear
+   39  pwd
+   40  cd /etc
+   41  cd ~
+   42  ls
+   43  clear
+   44  ls
+   45  mkdir linux-club
+   46  ls
+   47  cd /
+   48  mkdir linux-club
+   49  sudo mkdir linux-nerd
+   50  ls
+   51  ls -l
+   52  sudo rm -rf linux-nerd
+   53  ls -la
+   54  cd ~
+   55  ls
+   56  clear
+   57  ls
+   58  cd linux-club
+   59  touch nerd.pdf
+   60  toruch nerd.odt
+   61  sudo apt install odt
+   62  ls -l
+   63  ls touch nerd.txt
+   64  touch nerd.txt
+   65  ls
+   66  ls -l
+   67  sudo apt update
+   68  sudo apt install libreoffice -y
+   69  touch nerd.odt
+   70  ls -l
+   71  clear
+   72  nano nerd.txt
+   73  cat nerd.txt
+   74  pwd
+   75  mv nerd.txt /home/ayush
+   76  touch nerd2.txt
+   77  touch nerd 3.txt
+   78  touch nerd4.txt
+   79  rm -rf nerd 3.txt
+   80  ls
+   81  nano nerd4.txt
+   82  cat nerd4.txt
+   83  mv nerd44.txt nerd4.txt
+   84  touch nerd 44.txt
+   85  mv nerd44.txt nerd4.txt
+   86  touch nerd44.txt
+   87  mv nerd44.txt nerd4.txt
+   88  cat nerd44.txt
+   89  cat nerd4.txt
+   90  cat nerd44.txt
+   91  ls
+   92  cat 44.txt
+   93  nano nerd4.txt
+   94  mv nerd4.txt nerd1.txt
+   95  ls
+   96  rm -rf 44.txt
+   97  cat nerd1.txt
+   98  cat nerd4.txt
+   99  ls -a
+  100  cd ~
+  101  mkdir sandbox
+  102  cd sandbox
+  103  touch data.csv
+  104  ls
+  105  ls ~
+  106  cd ~
+  107  ls
+  108  cd linux-club
+  109  mkdir linux-club-part2
+  110  mkdir linux-club-part3
+  111  rm -rf linux-club-part3
+  112  ls
+  113  cd linux-club-part2
+  114  mkdir linux-club-part3
+  115  cd ..
+  116  tree
+  117  touch linux-club-part2/linux-club-part3/hello.txt
+  118  tree
+  119  less /
+  120  less /log
+  121  less /usr/bin
+  122  cd ..
+  123  less /usr/bin
+  124  ls
+  125  cd ?
+  126  cd /
+  127  less /usr/bin
+  128  less /usr/bin/
+  129  ls
+  130  cd usr
+  131  ls
+  132  cd ..
+  133  less usr/bin
+  134  less usr/bin/
+  135  less /usr/bin
+  136  less /usr/bin/
+  137  less /usr/bin
+  138  cd ~/linux-club/
+  139  nano nerd1
+  140  cat nerd1.txt
+  141  cat nerd1
+  142  head -n 5 nerd1.txt
+  143  head -n 5 nerd1
+  144  cd /
+  145  ls
+  146  ls -l
+  147  ls -al
+  148  rm nerd.txt
+  149  ls
+  150  cd ~
+  151  ls
+  152  rm nerd.txt
+  153  cd linux-club
+  154  ls
+  155  rm -rf linux-club-part2
+  156  ls
+  157  sudo apt install konsole
+  158  ls
+  159  cd linux-club
+  160  cd /
+  161  tree
+  162  clear
+  163  cd ~
+  164  ls
+  165  cd ?
+  166  cd /
+  167  mkdir linux
+  168  sudo mkdir linux
+  169  ls
+  170  rm -r linux
+  171  ls
+  172  sudo rm -rf linux
+  173  ls
+  174  clear
+  175  cd ~
+  176  clear
+  177  cd /
+  178  sudo cd /
+  179  ls -a #hello
+  180  head --help
+  181  free
+  182  ls cpu
+  183  lscpu
+  184  #hello
+  185  sudo apt update
+  186  sudo apt install git gh -y
+  187  git --version
+  188  gh --version
+  189  git config --global user.name "25f2009371-oss"
+  190  git config --global user.email "25f2009371@ds.study.iitm.ac.in"
+  191  git config --global --list
+  192  git auth login
+  193  sudo apt update
+  194  gh --version
+  195  gh auth login
+  196  cd ~/Desktop
+  197  gh repo clone 25f2009371-oss/Linux-terminal-chronicles
+  198  cd Linux-terminal-chronicles
+  199  git remove -v
+  200  git remote -v
+  201  git status
+  202  git auth status
+  203  mkdir -p daily-logs
+  204  nano daily-logs/2026-11-01.md
+  205  git add daily-logs/
+  206  git commit -m "Add first Linux learning log"
+  207  git push
+  208  clear
+  209  cd ..
+  210  cd..
+  211  cd ..
+  212  clear
+  213  ls
+  214  cd Documents
+  215  ls
+  216  mkdir mdir1
+  217  ls
+  218  pwd
+  219  cd mdir1
+  220  pwd
+  221  touch abc1.txt
+  222  touch abc2.txt
+  223  touch abc3.txt
+  224  touch abc4.txt
+  225  touch abc5.txt
+  226  nano abc1.txt
+  227  echo abc1.txt > abc2.txt
+  228  cat abc.txt
+  229  cat abc2.txt
+  230  cat abc1.txt
+  231  mkdir mdir2
+  232  mkdir mdir3
+  233  ls
+  234  rm -rf mdir 3
+  235  cd mdir2
+  236  mkdir mdir4
+  237  ls
+  238  cd mdir4
+  239  touch abc8.txt
+  240  tree
+  241  cd ..
+  242  cd mdir1
+  243  tree
+  244  clear
+  245  cd ..
+  246  rm -rf mdir1
+  247  ls
+  248  clear
+  249  learn
+  250  sudo apt install learn
+  251  cd ..
+  252  ayush@ayush-VMware-Virtual-Platform:~$ ls
+  253  Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos  linux-club  sandbox  snap
+  254  ayush@ayush-VMware-Virtual-Platform:~$ cd Documents
+  255  ayush@ayush-VMware-Virtual-Platform:~/Documents$ ls
+  256  ayush@ayush-VMware-Virtual-Platform:~/Documents$ mkdir mdir1
+  257  ayush@ayush-VMware-Virtual-Platform:~/Documents$ ls
+  258  mdir1
+  259  ayush@ayush-VMware-Virtual-Platform:~/Documents$ pwd
+  260  /home/ayush/Documents
+  261  ayush@ayush-VMware-Virtual-Platform:~/Documents$ cd mdir1
+  262  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ pwd
+  263  /home/ayush/Documents/mdir1
+  264  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ touch abc1.txt
+  265  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ touch abc2.txt
+  266  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ touch abc3.txt
+  267  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ touch abc4.txt
+  268  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ touch abc5.txt
+  269  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ nano abc1.txt
+  270  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ echo abc1.txt > abc2.txt
+  271  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ cat abc.txt
+  272  cat: abc.txt: No such file or directory
+  273  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ cat abc2.txt
+  274  abc1.txt
+  275  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ cat abc1.txt
+  276  Hello,
+  277  Do you know what is your name?
+  278  hello, my name is ak
+  279  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ mkdir mdir2
+  280  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ mkdir mdir3
+  281  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ ls
+  282  abc1.txt  abc2.txt  abc3.txt  abc4.txt  abc5.txt  mdir2  mdir3
+  283  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ rm -rf mdir 3
+  284  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ cd mdir2
+  285  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1/mdir2$ mkdir mdir4
+  286  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1/mdir2$ ls
+  287  mdir4
+  288  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1/mdir2$ cd mdir4
+  289  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1/mdir2/mdir4$ touch abc8.txt
+  290  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1/mdir2/mdir4$ tree
+  291  .
+  292  └── abc8.txt
+  293  1 directory, 1 file
+  294  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1/mdir2/mdir4$ cd ..
+  295  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1/mdir2$ cd ..
+  296  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ cd ..
+  297  ayush@ayush-VMware-Virtual-Platform:~/Documents$ cd mdir1
+  298  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ tree
+  299  .
+  300  ├── abc1.txt
+  301  ├── abc2.txt
+  302  ├── abc3.txt
+  303  ├── abc4.txt
+  304  ├── abc5.txt
+  305  ├── mdir2
+  306  │   └── mdir4
+  307  │       └── abc8.txt
+  308  └── mdir3
+  309  4 directories, 6 files
+  310  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ clear^C
+  311  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ ^C
+  312  ayush@ayush-VMware-Virtual-Platform:~/Documents/mdir1$ 
+  313  mkdir -p ~/bin ~/learning-sessions
+  314  if [ ! -d ~/Linux-terminal-chronicles/.git ]; then                                          gh repo clone 25f2009371-oss/Linux-terminal-chronicles                                               ~/Linux-terminal-chronicles;                                      fi
+  315  cat > ~/bin/learn <<'EOF'
+  316  #!/usr/bin/env bash
+  317  set -euo pipefail
+  318  REPO="$HOME/Linux-terminal-chronicles"
+  319  SESSION_DIR="$REPO/terminal-sessions"
+  320  mkdir -p "$SESSION_DIR" "$HOME/learning-sessions"
+  321  if ! git -C "$REPO" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+  322      echo "Learning repo not found: $REPO"
+  323      exit 1
+  324  fi
+  325  STAMP="$HOME/Linux-terminal-chronicles"
+  326  SESSION_DIR="$SESSION_DIR" "$HOME/learning/sessions"
+  327  ccs
+  328  fs
+  329  fexit
+  330  wr
+  331  q
+  332  eprwokbvoe
+  333  sudo apt install open-vm-tools-desktop -y
+  334  sudo apt update
+  335  sudo apt upgrade
+  336  clear
+  337  cd /
+  338  pwd
+  339  ls
+  340  cd ~/Documents
+  341  ls
+  342  mkdir -p mydir1
+  343  cd mydir1
+  344  touch file1.txt file2.txt file3.txt
+  345  nano file1.txt
+  346  exit
+  347  mkdir -p ~/bin ~/learning-sessions
+  348  cat > ~/bin/learn <<'EOF'
+  349  #!/usr/bin/env bash
+  350  set -euo pipefail
+  351  REPO="$HOME/Linux-terminal-chronicles"
+  352  SESSION_DIR="$REPO/terminal-sessions"
+  353  if ! git -C "$REPO" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+  354      echo "Error: GitHub repository not found at $REPO"
+  355      exit 1
+  356  fi
+  357  STAMP="$(date +%Y-%m-%d_%H-%M-%S)"
+  358  LOG="$HOME/learning-sessions/session-$STAMP.log"
+  359  mkdir -p "$SESSION_DIR" "$HOME/learning-sessions"
+  360  echo "======================================"
+  361  echo " Linux Terminal Chronicles"
+  362  echo "======================================"
+  363  echo "Recording: $LOG"
+  364  echo "Type your Linux commands inside this session."
+  365  echo "Type exit when finished to save and push."
+  366  echo "Do not enter passwords, tokens, or other secrets."
+  367  echo
+  368  set +e
+  369  script -q -f "$LOG"
+  370  SESSION_STATUS=$?
+  371  set -e
+  372  DEST="$SESSION_DIR/session-$STAMP.log"
+  373  cp "$LOG" "$DEST"
+  374  cd "$REPO"
+  375  git add "$DEST"
+  376  if git diff --cached --quiet; then
+  377      echo "No changes to commit."
+  378      exit "$SESSION_STATUS"
+  379  fi
+  380  git commit -m "Add terminal practice session $STAMP"
+  381  if git push; then
+  382      echo "Successfully uploaded your session to GitHub!"
+  383  else
+  384      echo "Push failed. Your session is committed locally."
+  385      echo "Retry with: cd \"$REPO\" && git push"
+  386      exit 1
+  387  fi
+  388  exit "$SESSION_STATUS"
+  389  EOF
+  390  chmod +x ~/bin/learn
+  391  grep -qxF 'export PATH="$HOME/bin:$PATH"' ~/.bashrc || echo 'export PATH="$HOME/bin:$PATH"' >> ~/.bashrc
+  392  source ~/.bashrc
+  393  learn
+  394  nano ~/bin/learn
+  395  chmod +x ~/bin/learn
+  396  learn
+  397  cd ~
+  398  cd /
+  399  exut
+  400  exit
+  401  # change directory and see how many directories you have 
+  402  ls
+  403  cd ~
+  404  ls
+  405  cd /
+  406  ls
+  407  show
+  408  exit
+  409  PseudTe
+  410  TesTes
+  411  exit
+  412  learn
+  413  exit
+  414  learn
+  415  cd ~/Linux-terminal-chronicles
+  416  git pull --rebase origin main
+  417  git push origin main
+  418  clear
+  419  nano ~/bin/learn
+  420  chmod +x ~/bin/learn
+  421  cd ~
+  422  clear
+  423  learn
+  424  t
+  425  '`*
+  426  nfnn
+  427  my
+  428  m
+  429  exit
+  430  '`*
+  431  nfnn
+  432  my
+  433  m
+  434  exit
+  435  exi
+  436  Q
+  437  
+  438  exit
+  439  cd /
+  440  ls
+  441  cd ~
+  442  ls
+  443  mkdir Document
+  444  ls
+  445  mkdir doc
+  446  ls
+  447  exit
+  448  learn
+  449  ls
+  450  cd /
+  451  ls
+  452  ls -l
+  453  ls -al
+  454  #You can see clearly their is weird linking drwxr all representing different functions
+  455  # you use chmod to play with permission w for write x for execute and r for read only
+  456  #remeber 3+3+3 rule you give each files 3 permission for each group individual and i dont remeber other one
+  457  exit
+  458  ls
+  459  cd ~
+  460  ls
+  461  ls -al
+  462  cd /
+  463  ls
+  464  ls -al
+  465  #Use sudo to work in root directory which is represented by /
+  466  #Anything you do in / affect your ubuntu thats why you need sudo 
+  467  # if your use rm -rf / your software os will be deleted 
+  468  exit
+  469  nano ~/bin/learn
+  470  chmod +x ~/bin/learn
+  471  clear
+  472  learn
+  473  cd ~/Linux-terminal-chronicles
+  474  ls -la
+  475  find ~/Linux-terminal-chronicles -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf -- {} +
+  476  cd ~/Linux-terminal-chronicles
+  477  ls -la
+  478  git add -A
+  479  git commit -m "Start fresh repository"
+  480  git push origin main
+  481  nano ~/bin/learn
+  482  cd ~/Linux-terminal-chronicles
+  483  find . -maxdepth 3 -type f -not -path './.git/*'
+  484  cp /tmp/clean-session.txt "YOUR_FILE.txt"
+  485  git add "YOUR_FILE.txt"
+  486  git commit -m "Clean terminal session log"
+  487  git push origin main
+  488  clear
+  489  learn
+  490  date
+  491  history
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ ls
+terminal-sessions
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ clear
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ ls
+terminal-sessions
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ cd ~
+ayush@ayush-VMware-Virtual-Platform:~$ ls
+Desktop   Documents  Linux-terminal-chronicles  Pictures  Templates  abc2.txt  doc                linux-club  snap
+Document  Downloads  Music                      Public    Videos     bin       learning-sessions  sandbox
+ayush@ayush-VMware-Virtual-Platform:~$ #blue color represent directories and white color remepresent white
+ayush@ayush-VMware-Virtual-Platform:~$ ls -al
+total 124
+drwxr-x--- 24 ayush ayush 4096 Nov  2 12:47 .
+drwxr-xr-x  3 root  root  4096 Oct 28 13:50 ..
+-rw-------  1 ayush ayush 9744 Nov  2 16:26 .bash_history
+-rw-r--r--  1 ayush ayush  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 ayush ayush 3801 Nov  2 08:53 .bashrc
+drwx------ 14 ayush ayush 4096 Nov  5 10:47 .cache
+drwx------ 18 ayush ayush 4096 Nov  2 08:49 .config
+drwxr-xr-x  2 ayush ayush 4096 Nov  1 16:59 .fontconfig
+-rw-rw-r--  1 ayush ayush  251 Nov  1 22:04 .gitconfig
+drwx------  2 ayush ayush 4096 Nov  1 22:19 .gnupg
+drwx------  4 ayush ayush 4096 Oct 28 14:27 .local
+-rw-r--r--  1 ayush ayush  807 Feb 13  2026 .profile
+drwx------  2 ayush ayush 4096 Oct 28 14:27 .ssh
+drwxr-xr-x  4 ayush ayush 4096 Nov  1 22:05 Desktop
+drwxrwxr-x  2 ayush ayush 4096 Nov  2 12:46 Document
+drwxr-xr-x  3 ayush ayush 4096 Nov  2 08:53 Documents
+drwxr-xr-x  2 ayush ayush 4096 Oct 28 14:27 Downloads
+drwxrwxr-x  4 ayush ayush 4096 Nov  2 12:58 Linux-terminal-chronicles
+drwxr-xr-x  2 ayush ayush 4096 Oct 28 14:27 Music
+drwxr-xr-x  3 ayush ayush 4096 Nov  1 22:01 Pictures
+drwxr-xr-x  2 ayush ayush 4096 Oct 28 14:27 Public
+drwxr-xr-x  2 ayush ayush 4096 Oct 28 14:27 Templates
+drwxr-xr-x  2 ayush ayush 4096 Oct 28 14:27 Videos
+-rw-rw-r--  1 ayush ayush    0 Nov  1 22:21 abc2.txt
+drwxrwxr-x  2 ayush ayush 4096 Nov  2 12:57 bin
+drwxrwxr-x  2 ayush ayush 4096 Nov  2 12:47 doc
+drwxrwxr-x  2 ayush ayush 4096 Nov  5 11:03 learning-sessions
+drwxrwxr-x  2 ayush ayush 4096 Nov  1 17:34 linux-club
+drwxrwxr-x  2 ayush ayush 4096 Nov  1 17:14 sandbox
+drwx------  6 ayush ayush 4096 Oct 31 08:41 snap
+ayush@ayush-VMware-Virtual-Platform:~$ ls Desktop
+Linux-terminal-chronicles  Myrevision
+ayush@ayush-VMware-Virtual-Platform:~$ ls Documents
+mydir1
+ayush@ayush-VMware-Virtual-Platform:~$ rm -r g f mydir1
+ayush@ayush-VMware-Virtual-Platform:~$ ls Desktop Documents /etc
+/etc:
+ModemManager                   cron.d               gdb                   kernel          network              rcS.d              systemd
+NetworkManager                 cron.daily           gdm3                  krb5.conf.d     networkd-dispatcher  resolv.conf        terminfo
+PackageKit                     cron.hourly          geoclue               ld.so.cache     networks             rmt                thermald
+UPower                         cron.monthly         ghostscript           ld.so.conf      newt                 rpc                timezone
+X11                            cron.weekly          glvnd                 ld.so.conf.d    nftables.conf        rsyslog.conf       tmpfiles.d
+adduser.conf                   cron.yearly          gnome                 ldap            nsswitch.conf        rsyslog.d          tpm2-tss
+alsa                           crontab              gnome-remote-desktop  legal           openvpn              rygel.conf         ts.conf
+alternatives                   cups                 gnutls                libao.conf      opt                  sane.d             ubuntu-advantage
+anacrontab                     cupshelpers          gprofng.rc            libaudit.conf   os-release           screenrc           ucf.conf
+apm                            dbus-1               groff                 libblockdev     pam.conf             security           udev
+apparmor                       dconf                group                 libibverbs.d    pam.d                selinux            udisks2
+apparmor.d                     debconf.conf         group-                libnl-3         paperspecs           sensors.d          ufw
+apport                         debian_version       grub.d                libreoffice     passwd               sensors3.conf      update-manager
+apt                            debuginfod           gshadow               locale.conf     passwd-              services           update-motd.d
+avahi                          default              gshadow-              locale.gen      pcmcia               sgml               update-notifier
+bash.bashrc                    deluser.conf         gss                   localtime       perl                 shadow             usb_modeswitch.conf
+bash_completion                depmod.d             gtk-3.0               logcheck        pki                  shadow-            usb_modeswitch.d
+bash_completion.d              dhcp                 hdparm.conf           login.defs      plymouth             shells             vconsole.conf
+bindresvport.blacklist         dhcpcd.conf          host.conf             logrotate.conf  pm                   skel               vdpau_wrapper.cfg
+binfmt.d                       dictionaries-common  hostname              logrotate.d     pnm2ppa.conf         snmp               vim
+bluetooth                      dpkg                 hosts                 lsb-release     polkit-1             speech-dispatcher  vmware-tools
+brlapi.key                     dracut.conf          hosts.allow           machine-id      ppp                  ssh                vtrgb
+brltty                         dracut.conf.d        hosts.deny            magic           profile              ssl                vulkan
+brltty.conf                    e2scrub.conf         hp                    magic.mime      profile.d            sssd               wgetrc
+ca-certificates                emacs                ifplugd               manpath.config  protocols            subgid             whoopsie
+ca-certificates.conf           environment          init                  mime.types      pulse                subgid-            wpa_supplicant
+ca-certificates.conf.dpkg-old  environment.d        init.d                mke2fs.conf     python3              subuid             xattr.conf
+chatscripts                    ethertypes           initramfs-tools       modprobe.d      python3.14           subuid-            xdg
+chrony                         firebird             inputrc               modules         rc0.d                sudo.conf          xemacs21
+cloud                          fonts                insserv.conf.d        modules-load.d  rc1.d                sudo_logsrvd.conf  xml
+colord                         fprintd.conf         ipp-usb               mtab            rc2.d                sudoers            zsh_command_not_found
+console-setup                  fstab                issue                 mysql           rc3.d                sudoers.d
+cracklib                       fuse.conf            issue.net             nanorc          rc4.d                supercat
+credstore                      fwupd                java-25-openjdk       netconfig       rc5.d                sysctl.d
+credstore.encrypted            gai.conf             kdump                 netplan         rc6.d                sysstat
+
+Desktop:
+Linux-terminal-chronicles  Myrevision
+
+Documents:
+mydir1
+ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ ls -l
+total 64
+drwxr-xr-x 4 ayush ayush 4096 Nov  1 22:05 Desktop
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:46 Document
+drwxr-xr-x 3 ayush ayush 4096 Nov  2 08:53 Documents
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Downloads
+drwxrwxr-x 4 ayush ayush 4096 Nov  2 12:58 Linux-terminal-chronicles
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Music
+drwxr-xr-x 3 ayush ayush 4096 Nov  1 22:01 Pictures
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Public
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Templates
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Videos
+-rw-rw-r-- 1 ayush ayush    0 Nov  1 22:21 abc2.txt
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:57 bin
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:47 doc
+drwxrwxr-x 2 ayush ayush 4096 Nov  5 11:03 learning-sessions
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:34 linux-club
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:14 sandbox
+drwx------ 6 ayush ayush 4096 Oct 31 08:41 snap
+ayush@ayush-VMware-Virtual-Platform:~$ rm -rf abc.2.txt
+ayush@ayush-VMware-Virtual-Platform:~$ exit
+exit
+
+Script done on 2026-11-05 11:12:48+05:30 [COMMAND_EXIT_CODE="0"]
