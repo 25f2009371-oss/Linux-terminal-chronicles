@@ -1,0 +1,55 @@
+Script started on 2026-11-05 11:14:00+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="152" LINES="43"]
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ touch app.sh
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ ls -l
+total 4
+-rw-rw-r-- 1 ayush ayush    0 Nov  5 11:14 app.sh
+drwxrwxr-x 2 ayush ayush 4096 Nov  5 11:13 terminal-sessions
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ pwd
+/home/ayush/Linux-terminal-chronicles
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ decd Desktop
+bash: cd: Desktop: No such file or directory
+ayush@ayush-VMware-Virtual-Platform:~/Linux-terminal-chronicles$ ;lcd ~
+ayush@ayush-VMware-Virtual-Platform:~$ ls
+Desktop   Documents  Linux-terminal-chronicles  Pictures  Templates  bin  learning-sessions  sandbox
+Document  Downloads  Music                      Public    Videos     doc  linux-club         snap
+ayush@ayush-VMware-Virtual-Platform:~$ cd Desktop
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ #changing directory to desktop
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ c d ..
+ayush@ayush-VMware-Virtual-Platform:~$ cpwd
+/home/ayush
+ayush@ayush-VMware-Virtual-Platform:~$ # cd.  .. change tdirecotry one directory abovetory
+ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ cd - 
+/home/ayush/Desktop
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ cd ..# cd - to directory to previous directory if of yuours
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ cdn ..\\
+ayush@ayush-VMware-Virtual-Platform:~$ pwd
+/home/ayush
+ayush@ayush-VMware-Virtual-Platform:~$ cd Desktop./
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ cd ../..
+ayush@ayush-VMware-Virtual-Platform:/home$ \pwd
+/home
+ayush@ayush-VMware-Virtual-Platform:/home$ cd Desktop
+bash: cd: Desktop: No such file or directory
+ayush@ayush-VMware-Virtual-Platform:/home$ cd DE..
+ayush@ayush-VMware-Virtual-Platform:/$ Ccd Desktop
+bash: cd: Desktop: No such file or directory
+ayush@ayush-VMware-Virtual-Platform:/$ cd ..
+ayush@ayush-VMware-Virtual-Platform:/$ cd ~
+ayush@ayush-VMware-Virtual-Platform:~$ cld Desktop
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ pwd
+/home/ayush/Desktop
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ cd ~
+ayush@ayush-VMware-Virtual-Platform:~$ #cd ~ take you to prvious working directory
+ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ clear
+ayush@ayush-VMware-Virtual-Platform:~$ cd /
+ayush@ayush-VMware-Virtual-Platform:/$ ls
+bin   cdrom  etc   lib    lost+found  mnt  proc  run   snap  swap.img  tmp  var
+boot  dev    home  lib64  media       opt  root  sbin  srv   sys       usr
+ayush@ayush-VMware-Virtual-Platform:/$ cd
+ayush@ayush-VMware-Virtual-Platform:~$ ls
+Desktop   Documents  Linux-terminal-chronicles  Pictures  Templates  bin  learning-sessions  sandbox
+Document  Downloads  Music                      Public    Videos     doc  linux-club         snap
+ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ exit
+exit
+
+Script done on 2026-11-05 15:15:27+05:30 [COMMAND_EXIT_CODE="0"]
