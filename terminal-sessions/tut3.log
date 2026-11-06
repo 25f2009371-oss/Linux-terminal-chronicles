@@ -1,0 +1,183 @@
+Script started on 2026-11-06 07:53:22+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="147" LINES="39"]
+ayush@ayush-VMware-Virtual-Platform:~$ clear
+ayush@ayush-VMware-Virtual-Platform:~$ ls Dcocuments
+mydir1
+ayush@ayush-VMware-Virtual-Platform:~$ rm -r f mydir1 we will eremov#we will remove mydir1 in Documents
+ayush@ayush-VMware-Virtual-Platform:~$ ls Documents
+mydir1
+ayush@ayush-VMware-Virtual-Platform:~$ #so we have to change our cd direcotry to document firtst
+ayush@ayush-VMware-Virtual-Platform:~$ ls
+Desktop   Documents  Linux-terminal-chronicles  Pictures  Templates  bin  learning-sessions  sandbox
+Document  Downloads  Music                      Public    Videos     doc  linux-club         snap
+ayush@ayush-VMware-Virtual-Platform:~$ cd Documents
+ayush@ayush-VMware-Virtual-Platform:~/Documents$ no#now i will use rmdir rem m r-rf mydir1 
+ayush@ayush-VMware-Virtual-Platform:~/Documents$ ls
+ayush@ayush-VMware-Virtual-Platform:~/Documents$ ls --l
+total 0
+ayush@ayush-VMware-Virtual-Platform:~/Documents$ cd ..
+ayush@ayush-VMware-Virtual-Platform:~$ ls -l
+total 64
+drwxr-xr-x 4 ayush ayush 4096 Nov  1 22:05 Desktop
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:46 Document
+drwxr-xr-x 2 ayush ayush 4096 Nov  6 07:54 Documents
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Downloads
+drwxrwxr-x 4 ayush ayush 4096 Nov  5 11:14 Linux-terminal-chronicles
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Music
+drwxr-xr-x 3 ayush ayush 4096 Nov  1 22:01 Pictures
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Public
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Templates
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Videos
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:57 bin
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:47 doc
+drwxrwxr-x 2 ayush ayush 4096 Nov  6 07:53 learning-sessions
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:34 linux-club
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:14 sandbox
+drwx------ 6 ayush ayush 4096 Oct 31 08:41 snap
+ayush@ayush-VMware-Virtual-Platform:~$ #Lo
+ayush@ayush-VMware-Virtual-Platform:~$ d#Detailed info about directory
+ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ #h stand for himan reakdable
+ayush@ayush-VMware-Virtual-Platform:~$ ls -lh
+total 64K
+drwxr-xr-x 4 ayush ayush 4.0K Nov  1 22:05 Desktop
+drwxrwxr-x 2 ayush ayush 4.0K Nov  2 12:46 Document
+drwxr-xr-x 2 ayush ayush 4.0K Nov  6 07:54 Documents
+drwxr-xr-x 2 ayush ayush 4.0K Oct 28 14:27 Downloads
+drwxrwxr-x 4 ayush ayush 4.0K Nov  5 11:14 Linux-terminal-chronicles
+drwxr-xr-x 2 ayush ayush 4.0K Oct 28 14:27 Music
+drwxr-xr-x 3 ayush ayush 4.0K Nov  1 22:01 Pictures
+drwxr-xr-x 2 ayush ayush 4.0K Oct 28 14:27 Public
+drwxr-xr-x 2 ayush ayush 4.0K Oct 28 14:27 Templates
+drwxr-xr-x 2 ayush ayush 4.0K Oct 28 14:27 Videos
+drwxrwxr-x 2 ayush ayush 4.0K Nov  2 12:57 bin
+drwxrwxr-x 2 ayush ayush 4.0K Nov  2 12:47 doc
+drwxrwxr-x 2 ayush ayush 4.0K Nov  6 07:53 learning-sessions
+drwxrwxr-x 2 ayush ayush 4.0K Nov  1 17:34 linux-club
+drwxrwxr-x 2 ayush ayush 4.0K Nov  1 17:14 sandbox
+drwx------ 6 ayush ayush 4.0K Oct 31 08:41 snap
+ayush@ayush-VMware-Virtual-Platform:~$ # r stand for reverse order
+ayush@ayush-VMware-Virtual-Platform:~$ # r stand for reverse orderls -lhr
+total 64
+drwx------ 6 ayush ayush 4096 Oct 31 08:41 snap
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:14 sandbox
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:34 linux-club
+drwxrwxr-x 2 ayush ayush 4096 Nov  6 07:53 learning-sessions
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:47 doc
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:57 bin
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Videos
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Templates
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Public
+drwxr-xr-x 3 ayush ayush 4096 Nov  1 22:01 Pictures
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Music
+drwxrwxr-x 4 ayush ayush 4096 Nov  5 11:14 Linux-terminal-chronicles
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Downloads
+drwxr-xr-x 2 ayush ayush 4096 Nov  6 07:54 Documents
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:46 Document
+drwxr-xr-x 4 ayush ayush 4096 Nov  1 22:05 Desktop
+ayush@ayush-VMware-Virtual-Platform:~$ #use cd command for ayush@ayush-VMware-Virtual-Platform:~$ #use cd command for ayush@ayush-VMware-Virtual-Platform:~$ #use cd command for ayush@ayush-VMware-Virtual-Platform:~$ #use cd command for ayush@ayush-VMware-Virtual-Platform:~$ #use cd command for cdnd to change directoruycd Desktop 
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ ls
+Linux-terminal-chronicles  Myrevision
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ cd .. # to go one directory baone badirecotry back in file system, 
+
+ayush@ayush-VMware-Virtual-Platform:~$ cd ../ ../
+bash: cd: too many arguments
+ayush@ayush-VMware-Virtual-Platform:~$ cd ../ ..
+ayush@ayush-VMware-Virtual-Platform:/$ cd
+ayush@ayush-VMware-Virtual-Platform:~$ ls
+Desktop   Documents  Linux-terminal-chronicles  Pictures  Templates  bin  learning-sessions  sandbox
+Document  Downloads  Music                      Public    Videos     doc  linux-club         snap
+ayush@ayush-VMware-Virtual-Platform:~$ lsp-l
+ls-l: command not found
+ayush@ayush-VMware-Virtual-Platform:~$ pwd
+/home/ayush
+ayush@ayush-VMware-Virtual-Platform:~$ ls -l
+total 64
+drwxr-xr-x 4 ayush ayush 4096 Nov  1 22:05 Desktop
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:46 Document
+drwxr-xr-x 2 ayush ayush 4096 Nov  6 07:54 Documents
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Downloads
+drwxrwxr-x 4 ayush ayush 4096 Nov  5 11:14 Linux-terminal-chronicles
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Music
+drwxr-xr-x 3 ayush ayush 4096 Nov  1 22:01 Pictures
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Public
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Templates
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Videos
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:57 bin
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:47 doc
+drwxrwxr-x 2 ayush ayush 4096 Nov  6 07:53 learning-sessions
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:34 linux-club
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:14 sandbox
+drwx------ 6 ayush ayush 4096 Oct 31 08:41 snap
+ayush@ayush-VMware-Virtual-Platform:~$ cdn Desktop
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ cd ~ #take your previous working drirectoruy which is Document D
+bash: cd: Document: No such file or directory
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ cd ..
+ayush@ayush-VMware-Virtual-Platform:~$ cd Desktop
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ cd Des~././Document
+ayush@ayush-VMware-Virtual-Platform:~/Document$ cd ../Document~ ##take your previous working directory which is#take your previous working directory which is
+ayush@ayush-VMware-Virtual-Platform:~$ # so  now we will amke make to see directoryies
+ayush@ayush-VMware-Virtual-Platform:~$ mkdir testing helo;''
+ayush@ayush-VMware-Virtual-Platform:~$ ls
+ Desktop     Downloads                   Pictures    Videos   learning-sessions   snap
+ Document    Linux-terminal-chronicles   Public      bin      linux-club         'testing helo'
+ Documents   Music                       Templates   doc      sandbox
+ayush@ayush-VMware-Virtual-Platform:~$ lscd testing hello
+bash: cd: too many arguments
+ayush@ayush-VMware-Virtual-Platform:~$ cd testing hello''
+bash: cd: testing hello: No such file or directory
+ayush@ayush-VMware-Virtual-Platform:~$ cd 'testing hello'''
+bash: cd: too many arguments
+ayush@ayush-VMware-Virtual-Platform:~$ rm -rg ff 'testing helo'
+'testing helo'
+
+ayush@ayush-VMware-Virtual-Platform:~$ ls
+Desktop   Documents  Linux-terminal-chronicles  Pictures  Templates  bin  learning-sessions  sandbox
+Document  Downloads  Music                      Public    Videos     doc  linux-club         snap
+ayush@ayush-VMware-Virtual-Platform:~$ ls -l
+total 64
+drwxr-xr-x 4 ayush ayush 4096 Nov  1 22:05 Desktop
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:46 Document
+drwxr-xr-x 2 ayush ayush 4096 Nov  6 07:54 Documents
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Downloads
+drwxrwxr-x 4 ayush ayush 4096 Nov  5 11:14 Linux-terminal-chronicles
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Music
+drwxr-xr-x 3 ayush ayush 4096 Nov  1 22:01 Pictures
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Public
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Templates
+drwxr-xr-x 2 ayush ayush 4096 Oct 28 14:27 Videos
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:57 bin
+drwxrwxr-x 2 ayush ayush 4096 Nov  2 12:47 doc
+drwxrwxr-x 2 ayush ayush 4096 Nov  6 07:53 learning-sessions
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:34 linux-club
+drwxrwxr-x 2 ayush ayush 4096 Nov  1 17:14 sandbox
+drwx------ 6 ayush ayush 4096 Oct 31 08:41 snap
+ayush@ayush-VMware-Virtual-Platform:~$ mkdir backup testing
+ayush@ayush-VMware-Virtual-Platform:~$ ls
+Desktop    Downloads                  Pictures   Videos  doc                sandbox
+Document   Linux-terminal-chronicles  Public     backup  learning-sessions  snap
+Documents  Music                      Templates  bin     linux-club         testing
+ayush@ayush-VMware-Virtual-Platform:~$ rm r-r backup testing
+ayush@ayush-VMware-Virtual-Platform:~$ ls
+Desktop   Documents  Linux-terminal-chronicles  Pictures  Templates  bin  learning-sessions  sandbox
+Document  Downloads  Music                      Public    Videos     doc  linux-club         snap
+ayush@ayush-VMware-Virtual-Platform:~$ ayush@ayush-VMware-Virtual-Platform:~$ cd Desktop[
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ ls
+ Linux-terminal-chronicles  'My dir'   Myrevision
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ so you can see here #that my file directory My dir was created by m e i want to deleted it so how i do it?
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ rm -r f Bakcup ckupMy dir
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ ls
+ Linux-terminal-chronicles  'My dir'   Myrevision
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ #it not worked so i have to to use ''
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ rm -rf ''M'y' 'd'i'r'
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ lls -l 
+total 8
+drwxrwxr-x 4 ayush ayush 4096 Nov  1 22:06 Linux-terminal-chronicles
+drwxrwxr-x 2 ayush ayush 4096 Oct 31 08:40 Myrevision
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ ot #it workded
+ayush@ayush-VMware-Virtual-Platform:~/Desktop$ ayush@ayush-VMware-Virtual-Platform:~/Desktop$ ayush@ayush-VMware-Virtual-Platform:~/Desktop$ ayush@ayush-VMware-Virtual-Platform:~/Desktop$ ayush@ayush-VMware-Virtual-Platform:~/Desktop$ cd ./
+ayush@ayush-VMware-Virtual-Platform:/$ #above command to cd to root directory /
+ayush@ayush-VMware-Virtual-Platform:/$ pwd
+/
+ayush@ayush-VMware-Virtual-Platform:/$ exit
+exit
+
+Script done on 2026-11-06 09:02:05+05:30 [COMMAND_EXIT_CODE="0"]
